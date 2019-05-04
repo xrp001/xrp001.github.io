@@ -1,5 +1,5 @@
 ---
-title: #about
+title: ABOUT
 layout: page
 date: 2015-07-12
 tags:
