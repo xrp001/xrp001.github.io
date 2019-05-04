@@ -1,6 +1,7 @@
 ---
 title: about
 layout: page
+date: 2015-07-12
 tags:
   - about
 category: about
