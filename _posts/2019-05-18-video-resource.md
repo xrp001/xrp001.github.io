@@ -1,5 +1,5 @@
 ---
-title: 电影资源网站汇总-更新日期20190518
+title: 视频网站汇总-更新日期20190518
 date: 2019-05-18 15:50:50
 categories:
 - 影视资源
@@ -11,11 +11,14 @@ tags:
 
 ## 初级：
 
-| [A站（AcFun）](http://www.acfun.cn/) | [B站（bilibili）](http://www.bilibili.com/) |
+| [A站（AcFun）](http://www.acfun.cn/) | [B站（bilibili）](http://www.bilibili.com/) | [YouTube](https://www.youtube.com/) |
+| [腾讯视频](https://v.qq.com/) | [爱奇艺](http://www.iqiyi.com/) | [优酷网](http://ding.youku.com/u/subscribeUpdate) |
+| [土豆网](http://www.tudou.com/) | [PPTV](http://www.pptv.com/) | [嘶哩嘶哩](http://www.silisili.cc/) |
 
 ## 中级：
 
 | [人人字幕组](http://www.zimuzu.tv/)   | [Mp4吧](http://www.mp4ba.com/) | [电影首发站](http://www.dysfz.cc/ ) |
+| [耐卡影音论坛](http://mcar.cc/forum.php) | [neets](https://neets.cc/) | [飘花电影网](https://www.piaohua.com/) |
 | [天天美剧](http://www.ttmeiju.com/)  | [美剧天堂](http://www.meijutt.com/)  | [电影天堂](http://www.xiaopian.com/)  |
 | [飘花电影](http://www.piaohua.com/)  | [6V电影](http://www.6vdy.com/)  | [圣城家园](http://www.cnscg.org/)  |
 | [丽丽影院](http://www.liliyy.com/)  | [电影FM](http://dianying.fm/category/)  | [资源片](http://ziyuanpian.com/)  |
@@ -41,12 +44,8 @@ tags:
 | [ACG.RIP](https://acg.rip/) | [838888磁力](https://868888.net/) | [飞客BT](http://feikebt.vip/) |
 | [搜搜磁力](http://sosocili.fun/) | [ACG搜](http://www.acgsou.com/) | [DiggBT](http://diggbtcili.com/) |
 
-| []() | []() | []() |
-| []() | []() | []() |
-| []() | []() | []() |
-| []() | []() | []() |
-| []() | []() | []() |
-| []() | []() | []() |
-| []() | []() | []() |
-| []() | []() | []() |
-| []() | []() | []() |
+
+来源参考：
+|[BT磁力 | 爱达杂货铺](https://adzhp.cn/bt-sou-suo.html) |
+|[酷安网](https://www.coolapk.com/feed/11776414?shareKey=MmY5YzRlZTFjYjhhNWNkZmNhNmE~&shareUid=864915&shareFrom=com.coolapk.market_9.2-beta3) |
+|[影视 | Raw栈](https://rawstack.tk/?p=421)|
