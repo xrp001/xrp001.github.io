@@ -90,5 +90,5 @@ tags: [share,study,websites,学习,]
 
 ## **语言类**
 
-*   **[Duolingo](http://www.duolingo.com/)** – 中文名「多邻国」，据说学习方式非常有效。我感觉它的app设计得不错。主要推荐英语和别的欧洲语言。（<a target="_blank" rel="nofollow">@秋纫</a> 补充）
-*   **[lernu.net](http://zh-cn.lernu.net/)** – 在多邻国的世界语课程出来之前，这应该是学习世界语最好的网站了吧。不过，它除了课程以外还有一个挺好玩的社区，和一些阅读材料。（<a target="_blank" rel="nofollow">@秋纫</a> 补充）
+*   **[Duolingo](http://www.duolingo.com/)** – 中文名「多邻国」，据说学习方式非常有效。我感觉它的app设计得不错。主要推荐英语和别的欧洲语言。（@秋纫 补充）
+*   **[lernu.net](http://zh-cn.lernu.net/)** – 在多邻国的世界语课程出来之前，这应该是学习世界语最好的网站了吧。不过，它除了课程以外还有一个挺好玩的社区，和一些阅读材料。（@秋纫 补充）
