@@ -1,3 +1,14 @@
+---
+title: 五星物语的 A.D. 年表
+date: 2014-12-29 23:33:24
+description: 
+categories:
+- comic
+tags:
+- 百科
+- 漫画
+---
+
 <strong>原文地址：</strong><a title="五星物语的A.D.年表" href="http://blog.sina.com.cn/s/blog_4bd78d11010006s3.html" target="_blank" rel="nofollow">五星物语的A.D.年表</a><strong>作者：</strong> <a title="锺锺" href="http://blog.sina.com.cn/u/1272417553" target="_blank" rel="nofollow">锺锺</a>
 
 ![](http://xrp001.tk/wp-content/uploads/2014/12/3419076542104531422.jpg)
