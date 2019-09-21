@@ -10,13 +10,13 @@ tags:
 - websites
 - 学习
 ---
+> 转载自：[欲思博客](http://yusi123.com) » [分享50个权威的网上在线学习网站](http://yusi123.com/3712.html)
 
 > 原作者 @watterfall 英文地址：[50 Top Online Learning Sites](http://www.bestcollegereviews.org/50-top-online-learning-sites/)
-> 转载自：[欲思博客](http://yusi123.com) » [分享50个权威的网上在线学习网站](http://yusi123.com/3712.html)
+
 网上逛的时候看到许多很不错的资源网站信息，都是大神收集起来的。我这边也收藏一下。大家喜欢的自己去看看。
 
 ![](http://xrp001.tk/wp-content/uploads/2015/06/introimage.jpg)
-
 
 ## **艺术与音乐**
 
