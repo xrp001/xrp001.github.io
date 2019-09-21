@@ -5,15 +5,6 @@ categories: share
 description: 原作者 @watterfall 英文地址：50 Top Online Learning Sites 
 tags: [share,study,websites,学习,]
 ---
-
----
-title: [转载] 分享 50 个权威的网上在线学习网站
-date: 2015-06-14
-categories: share
-description: 原作者 @watterfall 英文地址：50 Top Online Learning Sites 
-tags: [share,study,websites,学习,]
----
-
 > 原作者 @watterfall 英文地址：[50 Top Online Learning Sites](http://www.bestcollegereviews.org/50-top-online-learning-sites/)
 > 转载自：[欲思博客](http://yusi123.com) » [分享50个权威的网上在线学习网站](http://yusi123.com/3712.html)
 网上逛的时候看到许多很不错的资源网站信息，都是大神收集起来的。我这边也收藏一下。大家喜欢的自己去看看。
