@@ -2,13 +2,13 @@
 title: 在 heroku 上免费部署 Shadowsocks
 date: 2019-09-21
 categories: tutorial
-description: 转自[onplus](https://github.com/onplus)的[shadowsocks-heroku](https://github.com/onplus/shadowsocks-heroku) 项目（侵权删）
+description: 转自 onplus 的 shadowsocks-heroku 项目（侵权删）
 tags: [heroku,Shadowsocks,教程,tutorial]
 ---
 
 > 转自[onplus](https://github.com/onplus)的[shadowsocks-heroku](https://github.com/onplus/shadowsocks-heroku) 项目（侵权删）
 
-以下为原文：
+# 以下为原文：
 
 > Fork 于 [shadowsocks-heroku](https://github.com/mrluanma/shadowsocks-heroku) 项目
 
