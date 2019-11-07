@@ -6,7 +6,7 @@ description: 转自 suulnnka 的 BullshitGenerator 项目（侵权删）
 tags: [share,funny,教程,tutorial]
 ---
 
-> 转自[suulnnka](https://github.com/suulnnka)的[BullshitGenerator](https://github.com/suulnnka/BullshitGenerator) 项目（侵权删）
+> 转自[ suulnnka ](https://github.com/suulnnka)的[ BullshitGenerator ](https://github.com/suulnnka/BullshitGenerator) 项目（侵权删）
 
 # 狗屁不通文章生成器
 # BullshitGenerator
