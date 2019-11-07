@@ -2,8 +2,10 @@
 
 基于js写的一个手机端微信打飞机游戏 https://xrp001.github.io/hitplane/
 
----
+狗屁不通文章生成器 https://xrp001.github.io/BullshitGenerator
 
+---
+---
 # NexT
 
 > 精于心，简于形
