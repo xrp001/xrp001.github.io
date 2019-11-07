@@ -6,11 +6,11 @@ description: 转自 onplus 的 shadowsocks-heroku 项目（侵权删）
 tags: [heroku,Shadowsocks,教程,tutorial]
 ---
 
-> 转自[onplus](https://github.com/onplus)的[shadowsocks-heroku](https://github.com/onplus/shadowsocks-heroku) 项目（侵权删）
+> 转自[ onplus ](https://github.com/onplus)的[ shadowsocks-heroku ](https://github.com/onplus/shadowsocks-heroku) 项目（侵权删）
 
 # 以下为原文：
 
-> Fork 于 [shadowsocks-heroku](https://github.com/mrluanma/shadowsocks-heroku) 项目
+> Fork 于 [ shadowsocks-heroku ](https://github.com/mrluanma/shadowsocks-heroku) 项目
 
 # shadowsocks-heroku
 [Heroku](https://www.heroku.com/) 是一个支持多种编程语言的云平台即服务，shadowsocks-heroku 则是可部署在 Heroku 平台的 ss 服务。
