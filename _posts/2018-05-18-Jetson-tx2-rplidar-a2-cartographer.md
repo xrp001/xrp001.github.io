@@ -174,5 +174,5 @@ nvidia@tegra-ubuntu:~/catkin_ws$ catkin_make_isolated --install --use-ninja
 
 
 
-<iframe src="//player.bilibili.com/player.html?aid=27473804&cid=47390597&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?aid=27473804&cid=47390597&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%"></iframe>
 
