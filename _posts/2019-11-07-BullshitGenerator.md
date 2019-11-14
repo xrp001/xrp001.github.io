@@ -17,7 +17,7 @@ tags: [share,funny,教程,tutorial]
 
 <font color="#0000FF" >本项目的网页版地址 [https://xrp001.github.io/BullshitGenerator](https://xrp001.github.io/BullshitGenerator)</font>
 
-<font color="#FF4500">本项目的网页版地址 [https://xrp001.github.io/BullshitGenerator](https://xrp001.github.io/BullshitGenerator)</font>
+<font color="#FF4500">本项目的网页版地址 </font>[<font color="#FF4500">https://xrp001.github.io/BullshitGenerator</font>](https://xrp001.github.io/BullshitGenerator)
 
 修改:  
 1.设计并移植至浏览器  
