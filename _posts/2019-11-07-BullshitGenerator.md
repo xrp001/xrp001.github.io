@@ -16,6 +16,7 @@ tags: [share,funny,教程,tutorial]
 网页版地址 [https://suulnnka.github.io/BullshitGenerator/index.html](https://suulnnka.github.io/BullshitGenerator/index.html)
 
 <font color="#0000FF" >本项目的网页版地址 [https://xrp001.github.io/BullshitGenerator](https://xrp001.github.io/BullshitGenerator)</font>
+
 <font color="#FF4500">本项目的网页版地址 [https://xrp001.github.io/BullshitGenerator](https://xrp001.github.io/BullshitGenerator)</font>
 
 修改:  
