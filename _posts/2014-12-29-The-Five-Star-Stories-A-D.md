@@ -11,7 +11,7 @@ tags:
 
 <strong>原文地址：</strong><a title="五星物语的A.D.年表" href="http://blog.sina.com.cn/s/blog_4bd78d11010006s3.html" target="_blank" rel="nofollow">五星物语的A.D.年表</a><strong>作者：</strong> <a title="锺锺" href="http://blog.sina.com.cn/u/1272417553" target="_blank" rel="nofollow">锺锺</a>
 
-![](http://xrp001.tk/wp-content/uploads/2014/12/3419076542104531422.jpg)
+![](https://static.xrp001.tk/wp-content/uploads/2014/12/3419076542104531422.jpg)
 
 A.D.4000 发现朱诺(Juno)，改造博斯(Both)，开拓殖民星球。皇帝群家建立法洛斯帝·卡南超帝国。
 
