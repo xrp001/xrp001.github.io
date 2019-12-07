@@ -9,7 +9,7 @@ tags:
 - 漫画
 ---
 
-<a href="http://xrp001.tk/wp-content/uploads/2015/04/FSS-Designs-I-010.jpg"><img class="aligncenter wp-image-43 size-medium" src="http://xrp001.tk/wp-content/uploads/2015/04/FSS-Designs-I-010-216x296.jpg" alt="FSS Designs I -010" width="216" height="296" /></a>
+<a href="https://static.xrp001.tk/wp-content/uploads/2015/04/FSS-Designs-I-010.jpg"><img class="aligncenter wp-image-43 size-medium" src="https://static.xrp001.tk/wp-content/uploads/2015/04/FSS-Designs-I-010-216x296.jpg" alt="FSS Designs I -010" width="216" height="296" /></a>
 
 《五星物语》（日文：ファイブスター物语，英文：The Five Star Stories）是日本漫画家永野护的科幻漫画，自1986年起在角川书店的月刊杂志《Newtype》上连载，1989年更被动画化，而漫画至今接近30年依然在连载中。《五星物语》的特色是那庞大的世界观，所涉及的层面包括政治、历史、文化、信仰、爱情、科技等等；而叙事手法上亦与一般小说及漫画不同，在事前就已经透过年表把各项大事一一记述，读者就像在看历史书一般。当中，更为人欣赏的是作者的高水平人物设计及机械设定，《五星物语》的角色及机械每每是模型立体化的对象。
 
@@ -25,7 +25,7 @@ tags:
 
 出版社：角川书店
 
-<img class="  wp-image-46 alignright" src="http://xrp001.tk/wp-content/uploads/2015/04/FSS-Designs-I-062.jpg" alt="FSS Designs I -062" width="283" height="389" /><img class="  wp-image-45 alignright" src="http://xrp001.tk/wp-content/uploads/2015/04/FSS-Designs-I-037.jpg" alt="FSS Designs I -037" width="284" height="388" />
+<img class="  wp-image-46 alignright" src="https://static.xrp001.tk/wp-content/uploads/2015/04/FSS-Designs-I-062.jpg" alt="FSS Designs I -062" width="283" height="389" /><img class="  wp-image-45 alignright" src="https://static.xrp001.tk/wp-content/uploads/2015/04/FSS-Designs-I-037.jpg" alt="FSS Designs I -037" width="284" height="388" />
 
 单行本册数：12本未完
 
