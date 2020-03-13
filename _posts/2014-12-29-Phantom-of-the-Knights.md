@@ -11,7 +11,7 @@ tags:
 
 <strong>原文地址：</strong><a title="幻像骑士团团录" href="http://blog.sina.com.cn/s/blog_4bd78d11010006s7.html" target="_blank" rel="nofollow">幻像骑士团团录</a><strong>作者：</strong> <a title="锺锺" href="http://blog.sina.com.cn/u/1272417553" target="_blank" rel="nofollow">锺锺</a>
 
-![](https://static.xrp001.tk/wp-content/uploads/2015/06/627689198064884659.jpg)
+![](http://static.xrp001.tk/wp-content/uploads/2015/06/627689198064884659.jpg)
 
 称呼：第一等东方幻像骑士团
 
