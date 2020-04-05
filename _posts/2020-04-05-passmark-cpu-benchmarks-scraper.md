@@ -1,5 +1,5 @@
 ---
-title: 通过TXT列表在PassMark里抓取CPU Benchmarks
+title: 通过TXT列表从PassMark里抓取CPU跑分等信息
 date: 2020-04-05
 categories: tutorial
 tags: [scraper,juypter notebook,教程]
