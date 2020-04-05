@@ -10,6 +10,9 @@ Scrape CPU benchmarks from PassMark by .txt list.
 
 Note: The function is imperfect, very simple.
 
+Code repository link: [https://github.com/xrp001/passmark-cpu-benchmarks-scraper.git](https://github.com/xrp001/passmark-cpu-benchmarks-scraper.git)
+
+https://github.com/xrp001/passmark-cpu-benchmarks-scraper.git
 
 ## Usage
 
