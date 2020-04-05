@@ -1,8 +1,9 @@
 ---
 ---
 
-自定义主页     | https://xrp001.github.io/homepage
+页面名称     | 页面链接
 -------- | ---
+自定义主页     | https://xrp001.github.io/homepage
 基于js写的一个手机端微信打飞机游戏 | https://xrp001.github.io/hitplane/
 狗屁不通文章生成器    | https://xrp001.github.io/BullshitGenerator
 生日祝福     | https://xrp001.github.io/HappyBirthday/
