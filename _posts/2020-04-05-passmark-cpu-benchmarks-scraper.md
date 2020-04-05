@@ -32,7 +32,7 @@ Modify the code in ```CPU_Info-single.ipynb``` and use it to scrape the informat
 
 修改```CPU_Info-single.ipynb```中的代码并且用其来抓取单个CPU的信息，抓取到的信息将被存放到文件```CPU_Info-single.json```中。
 
-![CPU_Info-single.json](https://wx3.sinaimg.cn/mw690/6a8c0fe1gy1gdj9r27umaj20vq03i0t3.jpg)
+![CPU_Info-single.json](http://ww1.sinaimg.cn/large/6a8c0fe1gy1gdjb72hbyaj20vq03i0t3.jpg)
 
 **For multiple CPU**:
 
@@ -42,9 +42,9 @@ First specify the CPU list that needs to be scraped in ```cpu_list.txt```, and t
 
 先在```cpu_list.txt```中指定需要抓取的CPU清单，然后使用```CPU_Info-multiple.ipynb```来抓取这些CPU的信息，抓取到的信息将被存放到文件```CPU_Info-single.multiple```中。
 
-![cpu_list.txt](https://wx4.sinaimg.cn/large/6a8c0fe1gy1gdj6ubw93aj206z0h5753.jpg)
+![cpu_list.txt](http://ww1.sinaimg.cn/large/6a8c0fe1gy1gdjb3thk3qj206z0h5753.jpg)
 
-![CPU_Info-multiple.json](https://wx2.sinaimg.cn/mw690/6a8c0fe1gy1gdj9r8ui1fj210r0qjakg.jpg)
+![CPU_Info-multiple.json](http://ww1.sinaimg.cn/large/6a8c0fe1gy1gdjawljis3j210r0qjakg.jpg)
 
 **Note that while you can do whatever you care to with these codes, the data you scrape with it is for your personal use only.**
 
