@@ -4,6 +4,8 @@
 
 狗屁不通文章生成器 https://xrp001.github.io/BullshitGenerator
 
+生日祝福 https://xrp001.github.io/HappyBirthday/
+
 ---
 ---
 # NexT
