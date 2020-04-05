@@ -1,5 +1,5 @@
 ---
-title: 通过TXT列表从PassMark里抓取CPU跑分等信息
+title: 通过TXT列表从PassMark抓取CPU跑分等信息
 date: 2020-04-05
 categories: tutorial
 tags: [scraper,juypter notebook,教程]
@@ -10,7 +10,7 @@ tags: [scraper,juypter notebook,教程]
 # Passmark CPU Benchmarks Scraper
 Scrape CPU benchmarks from [PassMark](www.cpubenchmark.net) by .txt list.
 
-通过TXT列表从[PassMark](www.cpubenchmark.net)中抓取CPU Benchmarks。
+通过TXT列表从[PassMark](www.cpubenchmark.net)抓取CPU Benchmarks。
 
 Note: The function is imperfect, very simple.
 
