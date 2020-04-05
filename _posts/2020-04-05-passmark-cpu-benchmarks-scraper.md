@@ -5,6 +5,8 @@ categories: tutorial
 tags: [scraper,juypter notebook,教程]
 ---
 
+> 最近在考虑入手软路由，可是可选择的CPU太多，性能跑分和功耗千差万别，很难进行对比，本来自己做了个表格用于对比，可是最近Passmark里的数据在最近进行了更新，很多CPU的跑分都变了，做的表格失效了，于是修改了别人的代码用来爬取Passmark上的CPU信息来作为参考。
+
 # Passmark CPU Benchmarks Scraper
 Scrape CPU benchmarks from [PassMark](www.cpubenchmark.net) by .txt list.
 
