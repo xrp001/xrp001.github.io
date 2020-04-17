@@ -42,7 +42,7 @@ tags: [Arduino,ESP8266,AIDA64,OLED]
 
 ## 软件要求
 
-1. Arduino IDE，下载链接：[点此进入下载页面](https://www.arduino.cc/en/Main/Software?setlang=cn)（==可能需要特殊网络环境==）。
+1. Arduino IDE，下载链接：[点此进入下载页面](https://www.arduino.cc/en/Main/Software?setlang=cn)（可能需要特殊网络环境）。
 2. AIDA64，文件下载链接附于文末。
 
 以本文所附版本为例：先解压，再打开aida64.exe-文件-设置-LCD，选择“RemoteSensor”，更改“TCP/IP端口”，比如我改为888，然后勾选“启用RemoteSensor LCD支持”和“Maxmize on double-click”。如图所示：
@@ -59,9 +59,9 @@ tags: [Arduino,ESP8266,AIDA64,OLED]
 
 1. 在Arduino IDE（版本号1.8.12）中安装对8266开发板的支持。打开Arduino IDE，在文件-首选项的“附加开发板管理器网址”中输入：`http://arduino.esp8266.com/stable/package_esp8266com_index.json`
 ![11.png](https://i.loli.net/2020/04/17/tWvzpneNaXo48bU.png)
-然后，在工具-开发板-开发板管理器中搜索“`esp8266`”，点击安装（==可能需要特殊网络环境==）。
+然后，在工具-开发板-开发板管理器中搜索“`esp8266`”，点击安装（可能需要特殊网络环境）。
 ![12.png](https://i.loli.net/2020/04/17/rLDIhemUsOGdc6F.png)
-2. 安装需要用的库文件，在项目-加载库-管理库中搜索并安装以下库文件（==可能需要特殊网络环境==）：
+2. 安装需要用的库文件，在项目-加载库-管理库中搜索并安装以下库文件（可能需要特殊网络环境）：
 - ArduinoJson
 ![15.png](https://i.loli.net/2020/04/17/rRYNZnQymPdVS1W.png)
 - WiFiManager
