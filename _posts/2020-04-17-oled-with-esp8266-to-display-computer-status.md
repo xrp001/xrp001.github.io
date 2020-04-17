@@ -21,8 +21,6 @@ tags: [Arduino,ESP8266,AIDA64,OLED]
 | **CPU First Seen on Charts** | Q2 2014 |
 | **Cross-Platform Rating** | 3603 |
 | **Samples:**  | 1375* |
-| *[**Margin for error**](https://www.cpubenchmark.net/graph_notes.html#samples)  | Low |
-| **Overall Rank** | 1556 |
 
 上表数据来源：[PassMark - AMD A8-6410 APU](https://www.cpubenchmark.net/cpu.php?cpu=AMD%20A8-6410%20APU)
 
