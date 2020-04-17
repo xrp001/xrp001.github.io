@@ -10,7 +10,7 @@ tags: [Arduino,ESP8266,AIDA64,OLED]
 ## 前言：
 前不久入手了一个工控主板用作软路由，CPU使用是集成于主板的AMD A8-6410，TDP为15W，4核心，PassMark的多核得分1741，单核得分764。以下为这款处理器的详细参数如下表所示：
 | AMD A8-6410 APU |  |
-|--|--|
+|:--------:|:--------:|
 | **Other names** | AMD A8-6410 APU with AMD Radeon R5 Graphics |
 | **Class** | Laptop |
 | **Clockspeed** | 2.0 GHz |
