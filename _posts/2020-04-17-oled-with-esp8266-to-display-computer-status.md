@@ -1,5 +1,5 @@
 ---
-title: 使用ESP8266配合0.96寸OLED显示器显示电脑状态信息
+title: 使用ESP8266配合0.96寸OLED显示AIDA64读取到的电脑状态信息
 date: 2020-04-17
 categories: tutorial
 description: 使用ESP8266配合0.96寸OLED显示器显示电脑状态信息，如CPU、GPU的温度、风扇转速、占用率等。
