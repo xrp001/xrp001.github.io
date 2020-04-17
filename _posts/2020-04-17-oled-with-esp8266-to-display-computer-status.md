@@ -11,7 +11,7 @@ tags: [Arduino,ESP8266,AIDA64,OLED]
 前不久入手了一个工控主板用作软路由，CPU使用是集成于主板的AMD A8-6410，TDP为15W，4核心，PassMark的多核得分1741，单核得分764。以下为这款处理器的详细参数如下表所示：
 | AMD A8-6410 APU |  |
 |--|--|
-| **Other names** | _AMD A8-6410 APU with AMD Radeon R5 Graphics_ |
+| **Other names** | AMD A8-6410 APU with AMD Radeon R5 Graphics |
 | **Class** | Laptop |
 | **Clockspeed** | 2.0 GHz |
 | **Turbo Speed** | 2.4 GHz |
@@ -27,7 +27,7 @@ tags: [Arduino,ESP8266,AIDA64,OLED]
 
 上表数据来源：[PassMark - AMD A8-6410 APU](https://www.cpubenchmark.net/cpu.php?cpu=AMD%20A8-6410%20APU)
 
-现在板子安装的系统是Windows 10 企业版LTSC，版本号为1809，软路由系统OpenWrt安装于Win 10自带的Hyper-V虚拟机内，至于为什么不直接将OpenWrt安装于物理机中，恩山论坛的这位老哥[**墨色之月**](https://www.right.com.cn/forum/space-uid-306311.html)的帖子里有说明：[《这是怎么做到的，A8-6410能做到待机功耗7W》]([https://www.right.com.cn/forum/thread-2959996-1-1.html](https://www.right.com.cn/forum/thread-2959996-1-1.html))，这里不再赘述。平时不接显示器使用，于是需要对系统的运行状态进行监控，在网上找到了一篇帖子：[《ESP8266电脑主机状态监控数显模块制作》](https://www.mydigit.cn/forum.php?mod=viewthread&tid=126778)，本文只是对其教程进行更为详细的转述。
+现在板子安装的系统是Windows 10 企业版LTSC，版本号为1809，软路由系统OpenWrt安装于Win 10自带的Hyper-V虚拟机内，至于为什么不直接将OpenWrt安装于物理机中，恩山论坛的这位老哥[**墨色之月**](https://www.right.com.cn/forum/space-uid-306311.html)的帖子里有说明：[《这是怎么做到的，A8-6410能做到待机功耗7W》](https://www.right.com.cn/forum/thread-2959996-1-1.html)，这里不再赘述。平时不接显示器使用，于是需要对系统的运行状态进行监控，在网上找到了一篇帖子：[《ESP8266电脑主机状态监控数显模块制作》](https://www.mydigit.cn/forum.php?mod=viewthread&tid=126778)，本文只是对其教程进行更为详细的转述。
 
 ## 硬件要求
 
