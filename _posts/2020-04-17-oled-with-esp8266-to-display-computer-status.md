@@ -9,6 +9,7 @@ tags: [Arduino,ESP8266,AIDA64,OLED]
 
 ## 前言：
 前不久入手了一个工控主板用作软路由，CPU使用是集成于主板的AMD A8-6410，TDP为15W，4核心，PassMark的多核得分1741，单核得分764。以下为这款处理器的详细参数如下表所示：
+
 | CPU Name | AMD A8-6410 APU |
 | **Other names** | AMD A8-6410 APU with AMD Radeon R5 Graphics |
 | **Class** | Laptop |
@@ -21,6 +22,8 @@ tags: [Arduino,ESP8266,AIDA64,OLED]
 | **CPU First Seen on Charts** | Q2 2014 |
 | **Cross-Platform Rating** | 3603 |
 | **Samples:**  | 1375* |
+| *[**Margin for error**](https://www.cpubenchmark.net/graph_notes.html#samples)  | Low |
+| **Overall Rank** | 1556 |
 
 上表数据来源：[PassMark - AMD A8-6410 APU](https://www.cpubenchmark.net/cpu.php?cpu=AMD%20A8-6410%20APU)
 
@@ -40,6 +43,7 @@ tags: [Arduino,ESP8266,AIDA64,OLED]
 
 1. Arduino IDE，下载链接：[点此进入下载页面](https://www.arduino.cc/en/Main/Software?setlang=cn)（可能需要特殊网络环境）。
 2. AIDA64，文件下载链接附于文末。
+
 以本文所附版本为例：先解压，再打开aida64.exe-文件-设置-LCD，选择“RemoteSensor”，更改“TCP/IP端口”，比如我改为888，然后勾选“启用RemoteSensor LCD支持”和“Maxmize on double-click”。如图所示：
 ![24.png](https://i.loli.net/2020/04/17/dXwTSPfoR9FnK41.png)
 再选择“LCD项目”，导入文件配置文件`8266OLED.rslcd`。操作过程及导入后的效果如图所示：
