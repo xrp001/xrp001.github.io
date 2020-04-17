@@ -5,7 +5,7 @@ categories: tutorial
 description: 使用ESP8266配合0.96寸OLED显示器显示电脑状态信息，如CPU、GPU的温度、风扇转速、占用率等。
 tags: [Arduino,ESP8266,AIDA64,OLED]
 ---
-### > 本文的代码基于[《ESP8266电脑主机状态监控数显模块制作》](https://www.mydigit.cn/forum.php?mod=viewthread&tid=126778)，本文只是对其教程进行更为详细的转述，感谢这位老哥的分享。
+>本文的代码基于[《ESP8266电脑主机状态监控数显模块制作》](https://www.mydigit.cn/forum.php?mod=viewthread&tid=126778)，本文只是对其教程进行更为详细的转述，感谢这位老哥的分享。
 
 ## 前言：
 前不久入手了一个工控主板用作软路由，CPU使用是集成于主板的AMD A8-6410，TDP为15W，4核心，PassMark的多核得分1741，单核得分764。以下为这款处理器的详细参数如下表所示：
