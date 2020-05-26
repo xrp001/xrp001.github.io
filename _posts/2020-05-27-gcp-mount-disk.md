@@ -30,12 +30,10 @@ Sector size (logical/physical): 512B/4096B
 Partition Table: gpt
 Disk Flags:
 
-
 Number  Start   End     Size    File system  Name  Flags
 14      1049kB  5243kB  4194kB                     bios_grub
 15      5243kB  116MB   111MB   fat32              boot, esp
  1      116MB   10.7GB  10.6GB  ext4
-
 
 Error: /dev/sdb: unrecognised disk label
 Model: Google PersistentDisk (scsi)
