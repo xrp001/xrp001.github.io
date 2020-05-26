@@ -5,18 +5,23 @@ categories: tutorial
 description: 本文主要讲述如何为GCP中的虚拟机实例添加新硬盘。
 tags: [GCP,Google Cloud Platform,谷歌,Google]
 ---
-
 >本文参考文章 [谷歌云gcp（centos7）挂载额外的新磁盘](https://www.nmbhost.com/archives/5063)并进行了一些改动。
 
 ## 前言
 去年薅羊毛薅了谷歌云一年300美元的免费试用金，一直没怎么用，最近因为[COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019)疫情在家无聊，所以又开始捣鼓起来了。现在想给GCP中的虚拟机实例添加新硬盘，因为之前新建实例的时候没想到需要用来下载视频资源，实例中只有默认的10GB容量，于是需要新建一个磁盘并且挂载在这个实例下，用于下载的视频资源的保存。
+
 ## 新建磁盘
+
 1. 先在Computer Engine里选“磁盘”，然后选择“创建磁盘”。
+
 ![new disk](https://wx1.sinaimg.cn/large/6a8c0fe1gy1gf68y7uq4vj20tw0an0u4.jpg)
+
 2. 去到Computer Engine里的虚拟机(VM,Virtual Machine)实例，点开你需要挂载硬盘的实例，然后选择修改，并在“额外磁盘”中选择“附加现有磁盘”以添加这个新磁盘，最后重启（貌似不用重启也可以）。挂载之后新磁盘将隶属于这个实例。
+
 ![输入图片描述](https://wx1.sinaimg.cn/large/6a8c0fe1gy1gf68xxwle9j20mk07njrt.jpg)
 
 ## 配置并初始化新盘
+
 1. 使用SSH连接添加了新磁盘的实例，并查看实例的文件系统。
 ```
 root@instance-1:~# parted                # 使用parted工具进入查看
@@ -62,6 +67,7 @@ sda       8:0    0    10G  0 disk        # 默认的、容量为10GB的磁盘sda
 └─sda15   8:15   0   106M  0 part /boot/efi
 sdb       8:16   0    50G  0 disk        # 新建的、容量为50GB的磁盘sdb
 ```
+
 2. 将磁盘sdb格式化为ext4格式。
 ```
 root@instance-1:~# mkfs.xfs -f /dev/sdb  #“sdb”根据你挂载的磁盘名称不同而进行相应修改
@@ -75,7 +81,9 @@ log      =internal log           bsize=4096   blocks=6400, version=2
          =                       sectsz=4096  sunit=1 blks, lazy-count=1
 realtime =none                   extsz=4096   blocks=0, rtextents=0
 ```
+
 ## 将磁盘挂载为分区
+
 1. 格式化后就是挂载分区，由于打算当做下载盘使用，用于文件的保存以及实现Google Drive文件的上传，所以将该磁盘挂载到/root/Download0/文件夹。
 
 `root@instance-1:~# mount /dev/sdb /root/Download0/`
