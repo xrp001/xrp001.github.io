@@ -79,13 +79,9 @@ realtime =none                   extsz=4096   blocks=0, rtextents=0
 ```
 ## 将磁盘挂载为分区
 1. 格式化后就是挂载分区，由于打算当做下载盘使用，用于文件的保存以及实现Google Drive文件的上传，所以将该磁盘挂载到/root/Download0/文件夹。
-`
-root@instance-1:~# mount /dev/sdb /root/Download0/
-`
+`root@instance-1:~# mount /dev/sdb /root/Download0/`
 2. 修改读写权限。
-`
-root@instance-1:~# chmod a+w /root/Download0/
-`
+`root@instance-1:~# chmod a+w /root/Download0/`
 3. 查看是否成功。
 ```
 root@instance-1:~# df -h
@@ -107,10 +103,6 @@ tmpfs            59M     0   59M   0% /run/user/0
 ```
 
 4. 设置开机自动挂载sdb分区。
-`
-root@instance-1:~# vim /etc/fstab        # 使用vim工具对文件fstab进行编辑
-`
+`root@instance-1:~# vim /etc/fstab        # 使用vim工具对文件fstab进行编辑`
 在文件fstab的末位加入下面一行代码：
-`
-/dev/sdb /root/Download0/ xfs defaults 0 0      # 各字段分别是分区、挂载点、文件格式、挂载参数。后两个一般用0 0
-`
+`/dev/sdb /root/Download0/ xfs defaults 0 0      # 各字段分别是分区、挂载点、文件格式、挂载参数。后两个一般用0 0`
