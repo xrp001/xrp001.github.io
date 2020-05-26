@@ -46,9 +46,11 @@ Disk Flags:
 (parted) quit                            # 输入 quit 退出parted
 ```
 
+
 从上面可以看出默认的实例的磁盘为sda，容量为10GB；新建的磁盘为sdb，容量为50GB。
 
 PS：也可以用lsblk来查看磁盘信息。
+
 
 ```
 root@instance-1:~# lsblk                 # 使用lsblk查看磁盘信息
@@ -64,6 +66,7 @@ sda       8:0    0    10G  0 disk        # 默认的、容量为10GB的磁盘sda
 sdb       8:16   0    50G  0 disk        # 新建的、容量为50GB的磁盘sdb
 ```
 
+
 2. 将磁盘sdb格式化为ext4格式。
 ```
 root@instance-1:~# mkfs.xfs -f /dev/sdb  #“sdb”根据你挂载的磁盘名称不同而进行相应修改
@@ -77,15 +80,17 @@ log      =internal log           bsize=4096   blocks=6400, version=2
          =                       sectsz=4096  sunit=1 blks, lazy-count=1
 realtime =none                   extsz=4096   blocks=0, rtextents=0
 ```
+
 ## 将磁盘挂载为分区
+
 1. 格式化后就是挂载分区，由于打算当做下载盘使用，用于文件的保存以及实现Google Drive文件的上传，所以将该磁盘挂载到/root/Download0/文件夹。
-```
+`
 root@instance-1:~# mount /dev/sdb /root/Download0/
-```
+`
 2. 修改读写权限。
-```
+`
 root@instance-1:~# chmod a+w /root/Download0/
-```
+`
 3. 查看是否成功。
 ```
 root@instance-1:~# df -h
@@ -105,11 +110,12 @@ emby:           1.0P     0  1.0P   0% /home/gdrive
 tmpfs            59M     0   59M   0% /run/user/0
 /dev/sdb         50G   84M   50G   1% /root/Download0      # sdb已经挂在到文件夹Download0上
 ```
+
 4. 设置开机自动挂载sdb分区。
-```
+`
 root@instance-1:~# vim /etc/fstab        # 使用vim工具对文件fstab进行编辑
-```
+`
 在文件fstab的末位加入下面一行代码：
-```
+`
 /dev/sdb /root/Download0/ xfs defaults 0 0      # 各字段分别是分区、挂载点、文件格式、挂载参数。后两个一般用0 0
-```
+`
