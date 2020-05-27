@@ -26,7 +26,7 @@ image:
 1、 使用SSH连接添加了新磁盘的实例，并查看实例的文件系统。
 
 ```
-root@instance-1:~# parted# 使用parted工具进入查看
+root@instance-1:~# parted                          # 使用parted工具进入查看
 GNU Parted 3.2
 Using /dev/sda
 Welcome to GNU Parted! Type 'help' to view a list of commands.
