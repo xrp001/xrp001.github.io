@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "谷歌云(GCP,Google Cloud Platform)挂载新磁盘"
-date: 2020-05-27
-categories: tutorial
+title: "为什么感觉时间越过越快？"
+date: 2021-01-03
+categories: share
 tags: [回忆,时光,随想]
 
 ---
+
 > 本[科普中国](http://k.sina.com.cn/mediaDocList.d.html?uid=5104880035)的文章 [为什么感觉时间越过越快？](http://k.sina.com.cn/article_5104880035_1304649a30190140tq.html)
 
 “日子过得可真快啊……” 对于刚刚结束的2021，有多少人会发出这样的感叹。
