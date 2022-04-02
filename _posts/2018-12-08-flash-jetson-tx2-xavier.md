@@ -34,4 +34,4 @@ NVIDIA Jetson 下载中心，可以下载 TX2/Xavier 专用的 Tensorflow 、Jet
 
 **最新的官方英文版教程**可以在最新版本的 JetPack 下载页面获取，以 JetPack 4.1.1 DP 为例：
 
-![](http://wx1.sinaimg.cn/large/6a8c0fe1gy1fxzbo9qz62j211y0dt0sw.jpg)
+![](https://s2.loli.net/2022/04/03/C1JaQTwyI7MhWBO.jpg)
