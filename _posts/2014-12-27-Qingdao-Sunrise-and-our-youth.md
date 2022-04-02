@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "青岛的日出和我们的青春。。。"
-categories:share
 date: 2014-12-27
-tags: [照片,回忆,时光,photo]
+categories: share
+tags: [照片,回忆,时光]
 
 ---
 
