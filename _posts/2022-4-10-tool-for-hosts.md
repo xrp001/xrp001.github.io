@@ -11,7 +11,7 @@ tags: [教程]
 
 解决办法如下：
 
-1. 在<https://www.ipaddress.com>获取以下地址的IP：
+1、在<https://www.ipaddress.com>获取以下地址的IP：
 
  ```bash
 
@@ -58,7 +58,7 @@ tags: [教程]
          fout.writelines(data + "\n")
  ```
 
- 2. 进入mac终端，执行vi /etc/hosts，输入密码后，按i进入编辑，在最后加入以下内容：
+2、进入mac终端，执行vi /etc/hosts，输入密码后，按i进入编辑，在最后加入以下内容：
 
  ```bash
  140.82.113.4 github.com
