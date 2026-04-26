@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GNOME 顶栏系统监视扩展 System Monitor Beautiful 分享"
-date: 2026-04-27
+date: 2026-04-26
 categories: tutorial
 tags: [Linux, Ubuntu, GNOME, 工具]
 ---
