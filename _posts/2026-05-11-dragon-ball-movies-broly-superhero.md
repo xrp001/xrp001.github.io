@@ -16,11 +16,11 @@ tags:
 > 
 > | 顺序 | 作品 | 集数 |
 > |:---:|:---|:---:|
-> | 🥇 | [《龙珠 第1部》](/comic/2026/05/10/dragon-ball-part1-episode-guide | 1-153集 |/
-> | 🥈 | [《龙珠改》](/comic/2026/05/11/dragon-ball-kai-episode-guide | 1-159集 |/
-> | 🥉 | [《龙珠超》](/comic/2026/05/11/dragon-ball-super-episode-guide | 1-131集 |/
+> | 🥇 | [《龙珠 第1部》](/comic/2026/05/10/dragon-ball-part1-episode-guide/) | 1-153集 |/
+> | 🥈 | [《龙珠改》](/comic/2026/05/11/dragon-ball-kai-episode-guide/) | 1-159集 |/
+> | 🥉 | [《龙珠超》](/comic/2026/05/11/dragon-ball-super-episode-guide/) | 1-131集 |/
 > | ④ | **剧场版《布罗利》《超级英雄》← 当前** | **2部** |
-> | ⑤ | [《龙珠大魔》](/comic/2026/05/11/dragon-ball-daima-episode-guide | 1-20集 |/
+> | ⑤ | [《龙珠大魔》](/comic/2026/05/11/dragon-ball-daima-episode-guide/) | 1-20集 |/
 > 
 > **本作说明**：这两部剧场版的时间线紧接在力之大会之后，布罗利首次纳入正史，超级英雄则让比克和悟饭觉醒了全新形态。
 
