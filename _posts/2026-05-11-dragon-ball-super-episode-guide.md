@@ -16,11 +16,11 @@ tags:
 > 
 > | 顺序 | 作品 | 集数 |
 > |:---:|:---|:---:|
-> | 🥇 | [《龙珠 第1部》](/2026/05/10/dragon-ball-part1-episode-guide/) | 1-153集 |
-> | 🥈 | [《龙珠改》](/2026/05/11/dragon-ball-kai-episode-guide/) | 1-159集 |
+> | 🥇 | [《龙珠 第1部》](/2026/05/10/dragon-ball-part1-episode-guide.html) | 1-153集 |
+> | 🥈 | [《龙珠改》](/2026/05/11/dragon-ball-kai-episode-guide.html) | 1-159集 |
 > | 🥉 | **《龙珠超》← 当前** | **1-131集** |
-> | ④ | [剧场版《布罗利》《超级英雄》](/2026/05/11/dragon-ball-movies-broly-superhero/) | 2部 |
-> | ⑤ | [《龙珠大魔》](/2026/05/11/dragon-ball-daima-episode-guide/) | 1-20集 |
+> | ④ | [剧场版《布罗利》《超级英雄》](/2026/05/11/dragon-ball-movies-broly-superhero.html) | 2部 |
+> | ⑤ | [《龙珠大魔》](/2026/05/11/dragon-ball-daima-episode-guide.html) | 1-20集 |
 > 
 > **本作说明**：《龙珠超》接续魔人布欧篇之后，引入破坏神、全王、多元宇宙等设定，将龙珠的世界观从地球拓展到整个宇宙层面。
 
@@ -47,6 +47,8 @@ tags:
 
 ### 破坏神比鲁斯篇
 
+![破坏神比鲁斯篇]({{ site.baseurl }}/assets/images/dragon-ball/super/episodes/chapter_01_bills.jpg)
+
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
 | 001 | 平和の報酬１億ゼニーは誰の手に！？ | 和平的报酬1亿zeni在谁手中！？ | 悟空在比鲁斯星修行，布尔玛举办奖金1亿的派对，比鲁斯苏醒寻找超级赛亚人之神。 |
@@ -66,6 +68,8 @@ tags:
 
 ### 复活的F篇
 
+![复活的F篇]({{ site.baseurl }}/assets/images/dragon-ball/super/episodes/chapter_02_resurrection_f.jpg)
+
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
 | 015 | 勇者サタンよ奇跡を起こせ！宇宙からの挑戦状！！ | 勇者撒旦啊创造奇迹吧！来自宇宙的挑战书！！ | 撒旦先生收到银河巡警加克的挑战，宇宙级别的危机来临。 |
@@ -83,6 +87,8 @@ tags:
 | 027 | 地球爆発！？決着のかめはめ波 | 地球爆炸！？决着的龟派气功 | 弗利萨毁灭地球，维斯用时间回溯让悟空用龟派气功消灭弗利萨。 |
 
 ### 第6宇宙篇
+
+![第6宇宙篇]({{ site.baseurl }}/assets/images/dragon-ball/super/episodes/chapter_03_universe_6.jpg)
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -107,6 +113,8 @@ tags:
 | 046 | 悟空ＶＳ複製ベジータ！勝つのはどっちだ！？ | 悟空VS复制贝吉塔！谁会赢！？ | 悟空与复制贝吉塔激战，最终用超级赛亚人蓝色击败复制体。 |
 
 ### 未来特兰克斯篇
+
+![未来特兰克斯篇]({{ site.baseurl }}/assets/images/dragon-ball/super/episodes/chapter_04_future.jpg)
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -133,6 +141,8 @@ tags:
 | 067 | 新たなＨＯＰＥ！！を胸に さらばトランクス | 将新的HOPE！！藏在心中 再见了特兰克斯 | 特兰克斯用希望之剑消灭扎马斯，未来世界恢复和平。 |
 
 ### 力之大会准备篇
+
+![力之大会准备篇]({{ site.baseurl }}/assets/images/dragon-ball/super/episodes/chapter_05_tournament_prep.jpg)
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -167,6 +177,8 @@ tags:
 | 096 | 時はきた！宇宙の命運をかけ無の界へ！！ | 时机已到！赌上宇宙命运前往无之界！！ | 力之大会正式开始，众人前往无之界，宇宙的命运在此一战。 |
 
 ### 力之大会篇
+
+![力之大会篇]({{ site.baseurl }}/assets/images/dragon-ball/super/episodes/chapter_06_tournament.jpg)
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|

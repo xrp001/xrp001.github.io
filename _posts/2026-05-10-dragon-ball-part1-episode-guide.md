@@ -17,10 +17,10 @@ tags:
 > | 顺序 | 作品 | 集数 |
 > |:---:|:---|:---:|
 > | 🥇 | **《龙珠 第1部》← 当前** | **1-153集** |
-> | 🥈 | [《龙珠改》](/2026/05/11/dragon-ball-kai-episode-guide/) | 1-159集 |
-> | 🥉 | [《龙珠超》](/2026/05/11/dragon-ball-super-episode-guide/) | 1-131集 |
-> | ④ | [剧场版《布罗利》《超级英雄》](/2026/05/11/dragon-ball-movies-broly-superhero/) | 2部 |
-> | ⑤ | [《龙珠大魔》](/2026/05/11/dragon-ball-daima-episode-guide/) | 1-20集 |
+> | 🥈 | [《龙珠改》](/2026/05/11/dragon-ball-kai-episode-guide.html) | 1-159集 |
+> | 🥉 | [《龙珠超》](/2026/05/11/dragon-ball-super-episode-guide.html) | 1-131集 |
+> | ④ | [剧场版《布罗利》《超级英雄》](/2026/05/11/dragon-ball-movies-broly-superhero.html) | 2部 |
+> | ⑤ | [《龙珠大魔》](/2026/05/11/dragon-ball-daima-episode-guide.html) | 1-20集 |
 > 
 > **本作说明**：这是龙珠正史故事的起点，悟空从深山少年到第23届武道会冠军的成长历程，为后续的赛亚人、那美克星等宏大篇章奠定了全部基础。
 
@@ -51,6 +51,8 @@ tags:
 
 ### 孙悟空篇（寻找龙珠）
 
+![孙悟空篇]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_01_sunwukong.jpg)
+
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
 | 001 | ブルマと孫悟空 | 布尔玛与孙悟空 | 深山少年悟空偶遇寻找龙珠的少女布尔玛，两人踏上冒险之旅。 |
@@ -69,6 +71,8 @@ tags:
 
 
 ### 修行·第21届天下第一武道会篇
+
+![修行篇]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_02_training.jpg)
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -91,6 +95,8 @@ tags:
 
 ### 红缎带军团篇（动画原创序幕）⭐
 
+![红缎带军团篇序幕]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_03_redribbon_pre.jpg)
+
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
 | 029 ⭐ | ふたたび冒険　さまよう湖 | 再次冒险 流浪之湖 | 悟空独自修行，帮助那木解决村庄缺水问题，遇到流浪湖。 |
@@ -101,6 +107,8 @@ tags:
 
 
 ### 红缎带军团篇
+
+![红缎带军团篇]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_04_redribbon.jpg)
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -143,6 +151,8 @@ tags:
 
 ### 占卜婆婆篇
 
+![占卜婆婆篇]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_05_fortune.jpg)
+
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
 | 069 | キュートな！？占いババ | 可爱的！？占卜婆婆 | 悟空为复活爷爷，去找占卜婆婆，遇到各种考验。 |
@@ -159,6 +169,8 @@ tags:
 
 ### 第22届天下第一武道会前修行篇（动画原创）⭐
 
+![第22届武道会前修行]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_06_t22_pre.jpg)
+
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
 | 079 ⭐ | 金角・銀角の人食いひょうたん | 金角银角的食人葫芦 | 悟空遇到金角银角兄弟，他们有能将人吸入的神奇葫芦。 |
@@ -169,6 +181,8 @@ tags:
 
 
 ### 第22届天下第一武道会篇
+
+![第22届武道会]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_07_t22.jpg)
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -193,6 +207,8 @@ tags:
 
 
 ### 比克大魔王篇
+
+![比克大魔王篇]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_08_piccolo.jpg)
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -225,6 +241,8 @@ tags:
 
 ### 天神修行篇（动画原创）⭐
 
+![天神修行篇]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_09_god_training.jpg)
+
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
 | 127 ⭐ | カミナリよりも速く！！ | 比闪电还快！！ | 悟空在天神殿接受波波先生修行，速度超越闪电。 |
@@ -236,6 +254,8 @@ tags:
 
 
 ### 第23届天下第一武道会篇
+
+![第23届武道会]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_10_t23.jpg)
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -258,6 +278,8 @@ tags:
 
 
 ### 火焰山婚礼篇（动画原创/完结篇）⭐
+
+![火焰山婚礼篇]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_11_wedding.jpg)
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|

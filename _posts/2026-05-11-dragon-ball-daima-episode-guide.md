@@ -16,10 +16,10 @@ tags:
 > 
 > | 顺序 | 作品 | 集数 |
 > |:---:|:---|:---:|
-> | 🥇 | [《龙珠 第1部》](/2026/05/10/dragon-ball-part1-episode-guide/) | 1-153集 |
-> | 🥈 | [《龙珠改》](/2026/05/11/dragon-ball-kai-episode-guide/) | 1-159集 |
-> | 🥉 | [《龙珠超》](/2026/05/11/dragon-ball-super-episode-guide/) | 1-131集 |
-> | ④ | [剧场版《布罗利》《超级英雄》](/2026/05/11/dragon-ball-movies-broly-superhero/) | 2部 |
+> | 🥇 | [《龙珠 第1部》](/2026/05/10/dragon-ball-part1-episode-guide.html) | 1-153集 |
+> | 🥈 | [《龙珠改》](/2026/05/11/dragon-ball-kai-episode-guide.html) | 1-159集 |
+> | 🥉 | [《龙珠超》](/2026/05/11/dragon-ball-super-episode-guide.html) | 1-131集 |
+> | ④ | [剧场版《布罗利》《超级英雄》](/2026/05/11/dragon-ball-movies-broly-superhero.html) | 2部 |
 > | ⑤ | **《龙珠大魔》← 当前** | **1-20集** |
 > 
 > **本作说明**：作为龙珠系列的最新作品，本作首次揭开了大魔界的神秘面纱，悟空觉醒超级赛亚人4的力量，为整个正史画上阶段性句号。
@@ -45,6 +45,8 @@ tags:
 
 ### 阴谋与变小篇
 
+![阴谋与变小篇]({{ site.baseurl }}/assets/images/dragon-ball/daima/episodes/chapter_01_conspiracy.jpg)
+
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
 | 001 | インボウ | 阴谋 | 戈玛大魔王用龙珠将悟空等人变成小孩，众人决定前往大魔界寻找恢复之法。 |
@@ -52,6 +54,8 @@ tags:
 | 003 | ダイマ | 大魔 | 众人进入大魔界，发现这里的规则和人间完全不同，身体变小的影响逐渐显现。 |
 
 ### 大魔界探索篇
+
+![大魔界探索篇]({{ site.baseurl }}/assets/images/dragon-ball/daima/episodes/chapter_02_daima_explore.jpg)
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -63,6 +67,8 @@ tags:
 
 ### 传说与真相篇
 
+![传说与真相篇]({{ site.baseurl }}/assets/images/dragon-ball/daima/episodes/chapter_03_truth.jpg)
+
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
 | 009 | トウゾク | 盗贼 | 遇到盗贼团袭击，悟饭等人保护同伴，同时寻找下一颗龙珠的线索。 |
@@ -73,6 +79,8 @@ tags:
 | 014 | タブー | 禁忌 | 触及大魔界的禁忌知识，关于魔界之王和神龙的秘密被揭开。 |
 
 ### 最终决战篇
+
+![最终决战篇]({{ site.baseurl }}/assets/images/dragon-ball/daima/episodes/chapter_04_final_battle.jpg)
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
