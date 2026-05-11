@@ -16,11 +16,11 @@ tags:
 > 
 > | 顺序 | 作品 | 集数 |
 > |:---:|:---|:---:|
-> | 🥇 | [《龙珠 第1部》](/2026/05/10/dragon-ball-part1-episode-guide.html) | 1-153集 |
-> | 🥈 | [《龙珠改》](/2026/05/11/dragon-ball-kai-episode-guide.html) | 1-159集 |
+> | 🥇 | [《龙珠 第1部》](/comic/2026/05/10/dragon-ball-part1-episode-guide | 1-153集 |/
+> | 🥈 | [《龙珠改》](/comic/2026/05/11/dragon-ball-kai-episode-guide | 1-159集 |/
 > | 🥉 | **《龙珠超》← 当前** | **1-131集** |
-> | ④ | [剧场版《布罗利》《超级英雄》](/2026/05/11/dragon-ball-movies-broly-superhero.html) | 2部 |
-> | ⑤ | [《龙珠大魔》](/2026/05/11/dragon-ball-daima-episode-guide.html) | 1-20集 |
+> | ④ | [剧场版《布罗利》《超级英雄》](/comic/2026/05/11/dragon-ball-movies-broly-superhero | 2部 |/
+> | ⑤ | [《龙珠大魔》](/comic/2026/05/11/dragon-ball-daima-episode-guide | 1-20集 |/
 > 
 > **本作说明**：《龙珠超》接续魔人布欧篇之后，引入破坏神、全王、多元宇宙等设定，将龙珠的世界观从地球拓展到整个宇宙层面。
 

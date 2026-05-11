@@ -16,10 +16,10 @@ tags:
 > 
 > | 顺序 | 作品 | 集数 |
 > |:---:|:---|:---:|
-> | 🥇 | [《龙珠 第1部》](/2026/05/10/dragon-ball-part1-episode-guide.html) | 1-153集 |
-> | 🥈 | [《龙珠改》](/2026/05/11/dragon-ball-kai-episode-guide.html) | 1-159集 |
-> | 🥉 | [《龙珠超》](/2026/05/11/dragon-ball-super-episode-guide.html) | 1-131集 |
-> | ④ | [剧场版《布罗利》《超级英雄》](/2026/05/11/dragon-ball-movies-broly-superhero.html) | 2部 |
+> | 🥇 | [《龙珠 第1部》](/comic/2026/05/10/dragon-ball-part1-episode-guide | 1-153集 |/
+> | 🥈 | [《龙珠改》](/comic/2026/05/11/dragon-ball-kai-episode-guide | 1-159集 |/
+> | 🥉 | [《龙珠超》](/comic/2026/05/11/dragon-ball-super-episode-guide | 1-131集 |/
+> | ④ | [剧场版《布罗利》《超级英雄》](/comic/2026/05/11/dragon-ball-movies-broly-superhero | 2部 |/
 > | ⑤ | **《龙珠大魔》← 当前** | **1-20集** |
 > 
 > **本作说明**：作为龙珠系列的最新作品，本作首次揭开了大魔界的神秘面纱，悟空觉醒超级赛亚人4的力量，为整个正史画上阶段性句号。

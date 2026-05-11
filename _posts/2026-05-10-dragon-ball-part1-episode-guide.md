@@ -17,10 +17,10 @@ tags:
 > | 顺序 | 作品 | 集数 |
 > |:---:|:---|:---:|
 > | 🥇 | **《龙珠 第1部》← 当前** | **1-153集** |
-> | 🥈 | [《龙珠改》](/2026/05/11/dragon-ball-kai-episode-guide.html) | 1-159集 |
-> | 🥉 | [《龙珠超》](/2026/05/11/dragon-ball-super-episode-guide.html) | 1-131集 |
-> | ④ | [剧场版《布罗利》《超级英雄》](/2026/05/11/dragon-ball-movies-broly-superhero.html) | 2部 |
-> | ⑤ | [《龙珠大魔》](/2026/05/11/dragon-ball-daima-episode-guide.html) | 1-20集 |
+> | 🥈 | [《龙珠改》](/comic/2026/05/11/dragon-ball-kai-episode-guide/) | 1-159集 |
+> | 🥉 | [《龙珠超》](/comic/2026/05/11/dragon-ball-super-episode-guide/) | 1-131集 |
+> | ④ | [剧场版《布罗利》《超级英雄》](/comic/2026/05/11/dragon-ball-movies-broly-superhero/) | 2部 |
+> | ⑤ | [《龙珠大魔》](/comic/2026/05/11/dragon-ball-daima-episode-guide/) | 1-20集 |
 > 
 > **本作说明**：这是龙珠正史故事的起点，悟空从深山少年到第23届武道会冠军的成长历程，为后续的赛亚人、那美克星等宏大篇章奠定了全部基础。
 
