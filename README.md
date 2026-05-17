@@ -9,6 +9,36 @@
 狗屁不通文章生成器    | https://xrp001.github.io/BullshitGenerator/
 生日祝福     | https://xrp001.github.io/HappyBirthday/
 
+## 本地预览
+
+本仓库使用 Jekyll/GitHub Pages 构建。首次运行先安装依赖：
+
+```sh
+bundle install
+```
+
+本地构建检查：
+
+```sh
+bundle exec jekyll build
+```
+
+启动本地预览：
+
+```sh
+bundle exec jekyll serve --host 127.0.0.1 --port 4000
+```
+
+启动后在浏览器打开：
+
+```text
+http://127.0.0.1:4000
+```
+
+停止预览服务：在运行服务的终端按 `Ctrl + C`。
+
+更详细的临时步骤见 [LOCAL_PREVIEW_STEPS.md](LOCAL_PREVIEW_STEPS.md)。
+
 ---
 ---
 # NexT

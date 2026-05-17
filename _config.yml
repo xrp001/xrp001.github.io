@@ -5,7 +5,7 @@
 
 # Site
 title: ChrisX's Blog
-subtitle: ChrisX's Blog
+subtitle: 技术、动漫、资源与生活记录
 description: Learning...
 author: Chris Xiong
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -14,7 +14,7 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
+url: https://xrp001.github.io
 baseurl:
 permalink: pretty
 
@@ -109,7 +109,7 @@ seo: false
 
 # If true, will add site-subtitle to index page, added in jekyll config.
 # subtitle: Subtitle
-index_with_subtitle: false
+index_with_subtitle: true
 
 # ---------------------------------------------------------------
 # Menu Settings
