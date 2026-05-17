@@ -37,12 +37,37 @@ tags:
 ```bash
 # 精准查看默认路由
 route -n get default
-
-# 筛选查看默认网关
-netstat -nr | grep default
 ```
 
-可直观分辨当前默认网关是有线内网，还是无线热点外网。
+输出示例（此时默认走无线热点）：
+
+```
+   route to: default
+destination: default
+       mask: default
+    gateway: 172.20.10.1
+  interface: en0
+      flags: <UP,GATEWAY,DONE,STATIC,PRCLONING,GLOBAL>
+ recvpipe  sendpipe  ssthresh  rtt,msec    rttvar  hopcount      mtu     expire
+       0         0         0         0         0         0      1500         0
+```
+
+```bash
+# 筛选查看默认网关
+netstat -rn | grep default
+```
+
+输出示例：
+
+```
+default            172.20.10.1        UGScg                 en0       
+default            192.168.123.1      UGScIg                en6       
+default            fe80::%utun0       UGcIg               utun0       
+default            fe80::%utun1       UGcIg               utun1       
+...
+```
+
+> `en0` 为无线网卡，`en6` 为有线网卡。当前默认网关为 **172.20.10.1**（手机热点），有线路由（192.168.123.1）仅作为备用内网链路。`UGScg` 标记表示当前活动的默认路由，`UGScIg` 表示非活动但已配置的内部网络路由。
 
 ## 三、临时快速切换网关（临时生效，重启恢复）
 
