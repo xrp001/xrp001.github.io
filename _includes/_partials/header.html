@@ -30,14 +30,9 @@
       <span class="btn-bar"></span>
     </button>
   </div>
-  <label class="theme-controls" hidden>
-    <span class="theme-label">外观</span>
-    <select id="theme-select" aria-label="网站外观">
-      <option value="system">跟随系统</option>
-      <option value="light">浅色模式</option>
-      <option value="dark">深色模式</option>
-    </select>
-  </label>
+  <div class="theme-mobile theme-controls" hidden>
+    {% include _partials/theme-trigger.html %}
+  </div>
 </div>
 
 <nav class="site-nav">
@@ -75,6 +70,9 @@
           </a>
         </li>
       {% endif %}
+      <li class="menu-item menu-item-theme theme-controls" hidden>
+        {% include _partials/theme-trigger.html %}
+      </li>
     </ul>
   {% endif %}
 
@@ -84,5 +82,17 @@
     </div>
   {% endif %}
 </nav>
+
+<div id="theme-menu" class="theme-menu" role="menu" aria-label="网站外观" hidden>
+  <button type="button" role="menuitemradio" aria-checked="true" data-color-mode="system" tabindex="-1">
+    <i class="fa fa-desktop fa-fw" aria-hidden="true"></i>跟随系统<i class="fa fa-check theme-check" aria-hidden="true"></i>
+  </button>
+  <button type="button" role="menuitemradio" aria-checked="false" data-color-mode="light" tabindex="-1">
+    <i class="fa fa-sun-o fa-fw" aria-hidden="true"></i>浅色模式<i class="fa fa-check theme-check" aria-hidden="true"></i>
+  </button>
+  <button type="button" role="menuitemradio" aria-checked="false" data-color-mode="dark" tabindex="-1">
+    <i class="fa fa-moon-o fa-fw" aria-hidden="true"></i>深色模式<i class="fa fa-check theme-check" aria-hidden="true"></i>
+  </button>
+</div>
 
 {% include _custom/header.html %}
