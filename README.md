@@ -9,6 +9,10 @@
 狗屁不通文章生成器    | https://xrp001.github.io/BullshitGenerator/
 生日祝福     | https://xrp001.github.io/HappyBirthday/
 
+## 外观
+
+网站页头的“外观”选择器支持跟随系统、浅色模式和深色模式，并在浏览器中记住选择。该功能覆盖主题页面；历史独立 HTML 和第三方评论内容不由本站主题统一控制。
+
 ## 本地预览
 
 本仓库使用 Jekyll/GitHub Pages 构建。首次运行先安装依赖：
