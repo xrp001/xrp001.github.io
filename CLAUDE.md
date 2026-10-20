@@ -23,7 +23,7 @@ gem install bundler
 bundle install
 ```
 
-Install Ruby dependencies from `Gemfile`. The dependency stack is pinned through `github-pages` in `Gemfile.lock` and currently includes GitHub Pages 232 / Jekyll 3.10.0.
+Install Ruby dependencies from `Gemfile`. Jekyll 3.10.0 and the plugins used by this repository are pinned directly in `Gemfile.lock`; the `github-pages` meta gem and `jekyll-remote-theme` are intentionally not used because the theme is vendored in this repository.
 
 ```sh
 bundle exec jekyll serve --host 127.0.0.1 --port 4000
@@ -42,7 +42,7 @@ No repository-specific test runner or linter is currently configured. There is n
 ## Architecture
 
 - `_config.yml` is the main site and theme configuration. It controls site metadata, language, permalink style, pagination, menu entries, NexT scheme selection, comments, analytics, search, MathJax, and other third-party integrations.
-- `Gemfile` uses the `github-pages` gem group, so dependency changes should stay compatible with the GitHub Pages/Jekyll 3.x toolchain unless the deployment model is intentionally changed.
+- `Gemfile` directly declares Jekyll and the plugins used by this site. Keep dependency changes compatible with the GitHub Pages/Jekyll 3.x toolchain unless the deployment model is intentionally changed; do not reintroduce `github-pages` or `jekyll-remote-theme` without a concrete need.
 - `_posts/` contains the blog posts. Post filenames follow Jekyll date-prefix naming such as `YYYY-MM-DD-title.md`; post pages use the default `post` layout from `_config.yml` unless overridden in front matter.
 - Top-level page directories such as `about/`, `archives/`, `categories/`, `tags/`, `category/`, and `tag/` provide site sections and route entry points.
 - `_layouts/` contains thin layout wrappers. Most layouts assign language data and include templates from `_includes/`.

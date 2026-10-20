@@ -68,6 +68,7 @@ feed:
 ## Docs: https://help.github.com/articles/configuring-jekyll-plugins/
 plugins:
  - jemoji
+ - jekyll-paginate
  - jekyll-sitemap
  - jekyll-feed
 

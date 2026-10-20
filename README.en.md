@@ -26,7 +26,7 @@
 
 ## Installation
 
-Check whether you have `Ruby 2.1.0` or higher installed:
+Check that Ruby is installed. This repository is currently verified with Ruby 3.0.2:
 
 ```sh
 ruby --version
@@ -45,7 +45,7 @@ git clone https://github.com/Simpleyyt/jekyll-theme-next.git
 cd jekyll-theme-next
 ```
 
-Install Jekyll and other dependencies from the GitHub Pages gem:
+Install the Jekyll 3.10.0 dependency set declared directly in `Gemfile`:
 
 ```sh
 bundle install
@@ -54,7 +54,7 @@ bundle install
 Run your Jekyll site locally:
 
 ```sh
-bundle exec jekyll server
+bundle exec jekyll serve --host 127.0.0.1 --port 4000
 ```
 
 More Details：[Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)

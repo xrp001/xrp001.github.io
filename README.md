@@ -13,6 +13,8 @@
 
 本仓库使用 Jekyll/GitHub Pages 构建。首次运行先安装依赖：
 
+项目直接锁定 Jekyll 3.10.0 和实际使用的插件，不依赖 `github-pages` 元依赖或远程主题。
+
 ```sh
 bundle install
 ```
@@ -37,7 +39,7 @@ http://127.0.0.1:4000
 
 停止预览服务：在运行服务的终端按 `Ctrl + C`。
 
-更详细的临时步骤见 [LOCAL_PREVIEW_STEPS.md](LOCAL_PREVIEW_STEPS.md)。
+更详细的步骤见 [LOCAL_PREVIEW_STEPS.md](LOCAL_PREVIEW_STEPS.md)。
 
 ---
 ---
