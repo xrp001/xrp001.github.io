@@ -24,7 +24,7 @@ tags:
 > 
 > **本作说明**：这是龙珠正史故事的起点，悟空从深山少年到第23届武道会冠军的成长历程，为后续的赛亚人、那美克星等宏大篇章奠定了全部基础。
 
-![龙珠 第1部 海报]({{ site.baseurl }}/assets/images/dragon-ball/part1/poster.jpg)
+![龙珠 第1部 海报]({{ site.baseurl }}/assets/images/dragon-ball/part1/poster.jpg){: loading="eager" decoding="async" width="500" height="749"}
 
 以下为全153集的**官方日文标题**及标准中文译名，附分集剧情。
 
@@ -51,7 +51,7 @@ tags:
 
 ### 孙悟空篇（寻找龙珠）
 
-![孙悟空篇]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_01_sunwukong.jpg)
+![孙悟空篇]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_01_sunwukong.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -72,7 +72,7 @@ tags:
 
 ### 修行·第21届天下第一武道会篇
 
-![修行篇]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_02_training.jpg)
+![修行篇]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_02_training.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -95,7 +95,7 @@ tags:
 
 ### 红缎带军团篇（动画原创序幕）⭐
 
-![红缎带军团篇序幕]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_03_redribbon_pre.jpg)
+![红缎带军团篇序幕]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_03_redribbon_pre.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -108,7 +108,7 @@ tags:
 
 ### 红缎带军团篇
 
-![红缎带军团篇]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_04_redribbon.jpg)
+![红缎带军团篇]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_04_redribbon.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -151,7 +151,7 @@ tags:
 
 ### 占卜婆婆篇
 
-![占卜婆婆篇]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_05_fortune.jpg)
+![占卜婆婆篇]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_05_fortune.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -169,7 +169,7 @@ tags:
 
 ### 第22届天下第一武道会前修行篇（动画原创）⭐
 
-![第22届武道会前修行]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_06_t22_pre.jpg)
+![第22届武道会前修行]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_06_t22_pre.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -182,7 +182,7 @@ tags:
 
 ### 第22届天下第一武道会篇
 
-![第22届武道会]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_07_t22.jpg)
+![第22届武道会]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_07_t22.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -208,7 +208,7 @@ tags:
 
 ### 比克大魔王篇
 
-![比克大魔王篇]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_08_piccolo.jpg)
+![比克大魔王篇]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_08_piccolo.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -241,7 +241,7 @@ tags:
 
 ### 天神修行篇（动画原创）⭐
 
-![天神修行篇]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_09_god_training.jpg)
+![天神修行篇]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_09_god_training.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -255,7 +255,7 @@ tags:
 
 ### 第23届天下第一武道会篇
 
-![第23届武道会]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_10_t23.jpg)
+![第23届武道会]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_10_t23.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -279,7 +279,7 @@ tags:
 
 ### 火焰山婚礼篇（动画原创/完结篇）⭐
 
-![火焰山婚礼篇]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_11_wedding.jpg)
+![火焰山婚礼篇]({{ site.baseurl }}/assets/images/dragon-ball/part1/episodes/chapter_11_wedding.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|

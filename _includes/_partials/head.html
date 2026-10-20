@@ -113,6 +113,11 @@
     sidebar: {{ site.sidebar | jsonify }},
     fancybox: {{ site.fancybox }},
     motion: {{ site.use_motion }},
+    localSearch: {
+      path: {{ site.search.path | default: 'search.xml' | jsonify }},
+      trigger: {{ site.local_search.trigger | jsonify }},
+      topN: {{ site.local_search.top_n_per_article | jsonify }}
+    },
     duoshuo: {
       userId: '{{ site.duoshuo_info.user_id | default: }}',
       author: '{{ site.duoshuo_info.admin_nickname | default: __.author }}'

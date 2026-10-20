@@ -24,8 +24,8 @@ tags:
 > 
 > **本作说明**：这两部剧场版的时间线紧接在力之大会之后，布罗利首次纳入正史，超级英雄则让比克和悟饭觉醒了全新形态。
 
-![龙珠超：布罗利 海报]({{ site.baseurl }}/assets/images/dragon-ball/movies/broly_poster.jpg)
-![龙珠超：超级英雄 海报]({{ site.baseurl }}/assets/images/dragon-ball/movies/superhero_poster.jpg)
+![龙珠超：布罗利 海报]({{ site.baseurl }}/assets/images/dragon-ball/movies/broly_poster.jpg){: loading="eager" decoding="async" width="500" height="750"}
+![龙珠超：超级英雄 海报]({{ site.baseurl }}/assets/images/dragon-ball/movies/superhero_poster.jpg){: loading="lazy" decoding="async" width="500" height="750"}
 
 ---
 

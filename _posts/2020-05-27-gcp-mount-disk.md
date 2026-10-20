@@ -15,11 +15,11 @@ image:
 
 1、先在Computer Engine里选“磁盘”，然后选择“创建磁盘”。
 
-![](https://s2.loli.net/2022/04/03/gGpadcjhilIS1wB.jpg)
+![](https://s2.loli.net/2022/04/03/gGpadcjhilIS1wB.jpg){: loading="eager" decoding="async"}
 
 2、 来到Computer Engine里的虚拟机(VM,Virtual Machine)实例，点开你需要挂载硬盘的实例，然后选择修改，并在“额外磁盘”中选择“附加现有磁盘”以添加这个新磁盘，最后重启（貌似不用重启也可以）。挂载之后新磁盘将隶属于这个实例。
 
-![](https://s2.loli.net/2022/04/03/ExsdHrYg82S3GMA.jpg)
+![](https://s2.loli.net/2022/04/03/ExsdHrYg82S3GMA.jpg){: loading="lazy" decoding="async"}
 
 ## 三、配置并初始化新盘
 

@@ -6,8 +6,6 @@ $(document).ready(function () {
 
   NexT.utils.isMobile() && window.FastClick.attach(document.body);
 
-  NexT.utils.lazyLoadPostsImages();
-
   NexT.utils.registerESCKeyEvent();
 
   NexT.utils.registerBackToTop();

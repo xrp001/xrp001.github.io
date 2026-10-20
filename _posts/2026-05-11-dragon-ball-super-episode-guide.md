@@ -24,7 +24,7 @@ tags:
 > 
 > **本作说明**：《龙珠超》接续魔人布欧篇之后，引入破坏神、全王、多元宇宙等设定，将龙珠的世界观从地球拓展到整个宇宙层面。
 
-![龙珠超 海报]({{ site.baseurl }}/assets/images/dragon-ball/super/poster.jpg)
+![龙珠超 海报]({{ site.baseurl }}/assets/images/dragon-ball/super/poster.jpg){: loading="eager" decoding="async" width="500" height="750"}
 
 以下为全131集的**官方日文标题**及标准中文译名，附分集剧情。
 
@@ -47,7 +47,7 @@ tags:
 
 ### 破坏神比鲁斯篇
 
-![破坏神比鲁斯篇]({{ site.baseurl }}/assets/images/dragon-ball/super/episodes/chapter_01_bills.jpg)
+![破坏神比鲁斯篇]({{ site.baseurl }}/assets/images/dragon-ball/super/episodes/chapter_01_bills.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -68,7 +68,7 @@ tags:
 
 ### 复活的F篇
 
-![复活的F篇]({{ site.baseurl }}/assets/images/dragon-ball/super/episodes/chapter_02_resurrection_f.jpg)
+![复活的F篇]({{ site.baseurl }}/assets/images/dragon-ball/super/episodes/chapter_02_resurrection_f.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -88,7 +88,7 @@ tags:
 
 ### 第6宇宙篇
 
-![第6宇宙篇]({{ site.baseurl }}/assets/images/dragon-ball/super/episodes/chapter_03_universe_6.jpg)
+![第6宇宙篇]({{ site.baseurl }}/assets/images/dragon-ball/super/episodes/chapter_03_universe_6.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -114,7 +114,7 @@ tags:
 
 ### 未来特兰克斯篇
 
-![未来特兰克斯篇]({{ site.baseurl }}/assets/images/dragon-ball/super/episodes/chapter_04_future.jpg)
+![未来特兰克斯篇]({{ site.baseurl }}/assets/images/dragon-ball/super/episodes/chapter_04_future.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -142,7 +142,7 @@ tags:
 
 ### 力之大会准备篇
 
-![力之大会准备篇]({{ site.baseurl }}/assets/images/dragon-ball/super/episodes/chapter_05_tournament_prep.jpg)
+![力之大会准备篇]({{ site.baseurl }}/assets/images/dragon-ball/super/episodes/chapter_05_tournament_prep.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -178,7 +178,7 @@ tags:
 
 ### 力之大会篇
 
-![力之大会篇]({{ site.baseurl }}/assets/images/dragon-ball/super/episodes/chapter_06_tournament.jpg)
+![力之大会篇]({{ site.baseurl }}/assets/images/dragon-ball/super/episodes/chapter_06_tournament.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|

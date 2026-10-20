@@ -32,7 +32,10 @@ paginate: 10
   #paginate_path: "/page:num/"
 
 # Handling Reading
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README_en.md", "vendor"]
+sass:
+  style: compressed
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README_en.md", "vendor", "ignore"]
 
 # Separator
 #excerpt_separator: <!-- more -->
@@ -739,4 +742,4 @@ js: assets/js
 images: assets/images
 
 # Theme version
-version: 5.1.1
+version: 5.1.2

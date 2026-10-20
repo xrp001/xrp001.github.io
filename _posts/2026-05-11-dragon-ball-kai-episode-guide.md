@@ -24,7 +24,7 @@ tags:
 > 
 > **本作说明**：《龙珠改》对应漫画原作从赛亚人篇到魔人布欧篇的全部内容，是龙珠最核心的剧情段落，比原版动画节奏更紧凑，画质也经过高清修复。
 
-![龙珠改 海报]({{ site.baseurl }}/assets/images/dragon-ball/kai/poster.jpg)
+![龙珠改 海报]({{ site.baseurl }}/assets/images/dragon-ball/kai/poster.jpg){: loading="eager" decoding="async" width="500" height="750"}
 
 以下为全159集的**官方日文标题**及标准中文译名，附分集剧情。
 
@@ -48,7 +48,7 @@ tags:
 
 ### 赛亚人篇
 
-![赛亚人篇]({{ site.baseurl }}/assets/images/dragon-ball/kai/episodes/chapter_01_saiyan.jpg)
+![赛亚人篇]({{ site.baseurl }}/assets/images/dragon-ball/kai/episodes/chapter_01_saiyan.jpg){: loading="lazy" decoding="async" width="1280" height="960"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -72,7 +72,7 @@ tags:
 
 ### 那美克星篇
 
-![那美克星篇]({{ site.baseurl }}/assets/images/dragon-ball/kai/episodes/chapter_02_namek.jpg)
+![那美克星篇]({{ site.baseurl }}/assets/images/dragon-ball/kai/episodes/chapter_02_namek.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -89,7 +89,7 @@ tags:
 
 ### 基纽特战队篇
 
-![基纽特战队篇]({{ site.baseurl }}/assets/images/dragon-ball/kai/episodes/chapter_03_ginyu.jpg)
+![基纽特战队篇]({{ site.baseurl }}/assets/images/dragon-ball/kai/episodes/chapter_03_ginyu.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -104,7 +104,7 @@ tags:
 
 ### 弗利萨篇
 
-![弗利萨篇]({{ site.baseurl }}/assets/images/dragon-ball/kai/episodes/chapter_04_frieza.jpg)
+![弗利萨篇]({{ site.baseurl }}/assets/images/dragon-ball/kai/episodes/chapter_04_frieza.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -129,7 +129,7 @@ tags:
 
 ### 人造人·特兰克斯篇
 
-![人造人·特兰克斯篇]({{ site.baseurl }}/assets/images/dragon-ball/kai/episodes/chapter_05_androids.jpg)
+![人造人·特兰克斯篇]({{ site.baseurl }}/assets/images/dragon-ball/kai/episodes/chapter_05_androids.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -150,7 +150,7 @@ tags:
 
 ### 沙鲁篇
 
-![沙鲁篇]({{ site.baseurl }}/assets/images/dragon-ball/kai/episodes/chapter_06_cell.jpg)
+![沙鲁篇]({{ site.baseurl }}/assets/images/dragon-ball/kai/episodes/chapter_06_cell.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -188,7 +188,7 @@ tags:
 
 ### 魔人布欧篇
 
-![魔人布欧篇]({{ site.baseurl }}/assets/images/dragon-ball/kai/episodes/chapter_07_boo.jpg)
+![魔人布欧篇]({{ site.baseurl }}/assets/images/dragon-ball/kai/episodes/chapter_07_boo.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|

@@ -38,7 +38,7 @@ tags: [Arduino,ESP8266,AIDA64,OLED]
  4. Micro USB数据线；
  5. 2.4G WiFi路由器（需要知道SSID和密码）；
  6. ESP8266开发板与0.96寸OLED屏的接线：
- ![31.png](https://i.loli.net/2020/04/17/lkzAfhvHKW4bLUx.png)
+ ![31.png](https://i.loli.net/2020/04/17/lkzAfhvHKW4bLUx.png){: loading="eager" decoding="async"}
 
 ## 软件要求
 
@@ -46,55 +46,55 @@ tags: [Arduino,ESP8266,AIDA64,OLED]
 2、AIDA64，文件下载链接附于文末。
 
 以本文所附版本为例：先解压，再打开aida64.exe-文件-设置-LCD，选择“RemoteSensor”，更改“TCP/IP端口”，比如我改为888，然后勾选“启用RemoteSensor LCD支持”和“Maxmize on double-click”。如图所示：
-![24.png](https://i.loli.net/2020/04/17/dXwTSPfoR9FnK41.png)
+![24.png](https://i.loli.net/2020/04/17/dXwTSPfoR9FnK41.png){: loading="lazy" decoding="async"}
 再选择“LCD项目”，导入文件配置文件`8266OLED.rslcd`。操作过程及导入后的效果如图所示：
-![25.png](https://i.loli.net/2020/04/17/5ZRyrHTUxDCdfaL.png)
+![25.png](https://i.loli.net/2020/04/17/5ZRyrHTUxDCdfaL.png){: loading="lazy" decoding="async"}
 **上述设置完之后一定要记得保存！！！** 
-![28.png](https://i.loli.net/2020/04/17/M3xHckJC16pdKej.png)
+![28.png](https://i.loli.net/2020/04/17/M3xHckJC16pdKej.png){: loading="lazy" decoding="async"}
 在浏览器中打开链接：`http://你电脑的IP:设置的端口`，就可以看到如下画面：
-![26.png](https://i.loli.net/2020/04/17/qxjdUHXPysBrAFl.png)
+![26.png](https://i.loli.net/2020/04/17/qxjdUHXPysBrAFl.png){: loading="lazy" decoding="async"}
 上图这些都是电脑的状态信息，本文中ESP8266的功能就是通过连接WiFi读取这些内容并显示在OLED屏幕上。
 
 ## 依赖安装
 
 1、在Arduino IDE（版本号1.8.12）中安装对8266开发板的支持。打开Arduino IDE，在文件-首选项的“附加开发板管理器网址”中输入：`http://arduino.esp8266.com/stable/package_esp8266com_index.json`
-![11.png](https://i.loli.net/2020/04/17/tWvzpneNaXo48bU.png)
+![11.png](https://i.loli.net/2020/04/17/tWvzpneNaXo48bU.png){: loading="lazy" decoding="async"}
 然后，在工具-开发板-开发板管理器中搜索“`esp8266`”，点击安装（可能需要特殊网络环境）。
-![12.png](https://i.loli.net/2020/04/17/rLDIhemUsOGdc6F.png)
+![12.png](https://i.loli.net/2020/04/17/rLDIhemUsOGdc6F.png){: loading="lazy" decoding="async"}
 2、安装需要用的库文件，在项目-加载库-管理库中搜索并安装以下库文件（可能需要特殊网络环境）：
 - ArduinoJson
-![15.png](https://i.loli.net/2020/04/17/rRYNZnQymPdVS1W.png)
+![15.png](https://i.loli.net/2020/04/17/rRYNZnQymPdVS1W.png){: loading="lazy" decoding="async"}
 - WiFiManager
-![16.png](https://i.loli.net/2020/04/17/kVldPYK5ZQrbsJz.png)
+![16.png](https://i.loli.net/2020/04/17/kVldPYK5ZQrbsJz.png){: loading="lazy" decoding="async"}
 - U8g2
-![17.png](https://i.loli.net/2020/04/17/IDV1bkaKNzPtQvE.png)
+![17.png](https://i.loli.net/2020/04/17/IDV1bkaKNzPtQvE.png){: loading="lazy" decoding="async"}
 
 ## 代码运行
 
 1、将ESP8266开发板连接电脑，打开设备管理器，查看端口号（我的电脑里是COM3，每台电脑可能不一样，没关系）：
-![21.png](https://i.loli.net/2020/04/17/x2gaELpYnA9ulwh.png)
+![21.png](https://i.loli.net/2020/04/17/x2gaELpYnA9ulwh.png){: loading="lazy" decoding="async"}
 若不出现端口号，则需要安装开发板驱动，我使用的是驱动精灵免安装版进行驱动安装，可在文末链接中下载。
 2、在工具-开发板中选中NodeMCU 1.0(ESP-12E Module)，如图所示：
-![22.png](https://i.loli.net/2020/04/17/A54FiScyNnUmX1I.png)
+![22.png](https://i.loli.net/2020/04/17/A54FiScyNnUmX1I.png){: loading="lazy" decoding="async"}
 在Arduino IDE的工具-端口中，选中上一步得到的端口号，如图所示：
-![23.png](https://i.loli.net/2020/04/17/itJD2BawqVLNEAH.png)
+![23.png](https://i.loli.net/2020/04/17/itJD2BawqVLNEAH.png){: loading="lazy" decoding="async"}
 3、使用Arduino IDE打开代码，代码下载链接附于文末。
 4、修改代码：
 - 更改WiFi名称、WiFi密码以及需要访问的域名和端口号，如图所示：
-![19.png](https://i.loli.net/2020/04/17/xAzQJYH2F1lgNrL.png)
+![19.png](https://i.loli.net/2020/04/17/xAzQJYH2F1lgNrL.png){: loading="lazy" decoding="async"}
 - 更改需要显示的内容，是显示CPU信息还是GPU信息（暂时只能选其一）：
-![18.png](https://i.loli.net/2020/04/17/j9Mayh5lWGmS6H1.png)
+![18.png](https://i.loli.net/2020/04/17/j9Mayh5lWGmS6H1.png){: loading="lazy" decoding="async"}
 5、开始编译运行并上传：
 - 打开项目-上传，即会对代码进行编译并上传至开发板。
-![27.png](https://i.loli.net/2020/04/17/7a3V1w8qIsDFfrW.png)
+![27.png](https://i.loli.net/2020/04/17/7a3V1w8qIsDFfrW.png){: loading="lazy" decoding="async"}
  -  Enjoy！！！
  
 ## 效果
 
 1、AMD A8-6410 CPU状态信息：
-![29.jpg](https://i.loli.net/2020/04/17/fTXB4HYMrkEmQgW.jpg)
+![29.jpg](https://i.loli.net/2020/04/17/fTXB4HYMrkEmQgW.jpg){: loading="lazy" decoding="async"}
 2、GPU状态信息：
-![30.jpg](https://i.loli.net/2020/04/17/gTxDSdQbnHosfqc.jpg)
+![30.jpg](https://i.loli.net/2020/04/17/gTxDSdQbnHosfqc.jpg){: loading="lazy" decoding="async"}
 
 ## 所需文件
 所有文件：[网盘下载](https://xrp001.lanzous.com/b00zesdlc)、[GitHub库下载](https://github.com/xrp001/AIDA64_ESP8266_Reader)（任选其一）

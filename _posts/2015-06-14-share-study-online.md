@@ -16,7 +16,7 @@ tags:
 
 网上逛的时候看到许多很不错的资源网站信息，都是大神收集起来的。我这边也收藏一下。大家喜欢的自己去看看。
 
-![](http://xrp001.tk/wp-content/uploads/2015/06/introimage.jpg)
+![](http://xrp001.tk/wp-content/uploads/2015/06/introimage.jpg){: loading="eager" decoding="async"}
 
 ## **艺术与音乐**
 

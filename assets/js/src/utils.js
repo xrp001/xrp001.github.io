@@ -14,7 +14,7 @@ NexT.utils = NexT.$u = {
         var imageTitle = $image.attr('title');
         var $imageWrapLink = $image.parent('a');
 
-        if ($imageWrapLink.size() < 1) {
+        if ($imageWrapLink.length < 1) {
 	        var imageLink = ($image.attr('data-original')) ? this.getAttribute('data-original') : this.getAttribute('src');
           $imageWrapLink = $image.wrap('<a href="' + imageLink + '"></a>').parent('a');
         }
@@ -36,14 +36,6 @@ NexT.utils = NexT.$u = {
           locked: false
         }
       }
-    });
-  },
-
-  lazyLoadPostsImages: function () {
-    $('#posts').find('img').lazyload({
-      //placeholder: '/images/loading.gif',
-      effect: 'fadeIn',
-      threshold : 0
     });
   },
 

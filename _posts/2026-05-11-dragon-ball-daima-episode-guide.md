@@ -24,7 +24,7 @@ tags:
 > 
 > **本作说明**：作为龙珠系列的最新作品，本作首次揭开了大魔界的神秘面纱，悟空觉醒超级赛亚人4的力量，为整个正史画上阶段性句号。
 
-![龙珠大魔 海报]({{ site.baseurl }}/assets/images/dragon-ball/daima/poster.jpg)
+![龙珠大魔 海报]({{ site.baseurl }}/assets/images/dragon-ball/daima/poster.jpg){: loading="eager" decoding="async" width="500" height="750"}
 
 以下为全20集的**官方日文标题**及标准中文译名，附分集剧情。
 
@@ -45,7 +45,7 @@ tags:
 
 ### 阴谋与变小篇
 
-![阴谋与变小篇]({{ site.baseurl }}/assets/images/dragon-ball/daima/episodes/chapter_01_conspiracy.jpg)
+![阴谋与变小篇]({{ site.baseurl }}/assets/images/dragon-ball/daima/episodes/chapter_01_conspiracy.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -55,7 +55,7 @@ tags:
 
 ### 大魔界探索篇
 
-![大魔界探索篇]({{ site.baseurl }}/assets/images/dragon-ball/daima/episodes/chapter_02_daima_explore.jpg)
+![大魔界探索篇]({{ site.baseurl }}/assets/images/dragon-ball/daima/episodes/chapter_02_daima_explore.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -67,7 +67,7 @@ tags:
 
 ### 传说与真相篇
 
-![传说与真相篇]({{ site.baseurl }}/assets/images/dragon-ball/daima/episodes/chapter_03_truth.jpg)
+![传说与真相篇]({{ site.baseurl }}/assets/images/dragon-ball/daima/episodes/chapter_03_truth.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
@@ -80,7 +80,7 @@ tags:
 
 ### 最终决战篇
 
-![最终决战篇]({{ site.baseurl }}/assets/images/dragon-ball/daima/episodes/chapter_04_final_battle.jpg)
+![最终决战篇]({{ site.baseurl }}/assets/images/dragon-ball/daima/episodes/chapter_04_final_battle.jpg){: loading="lazy" decoding="async" width="1280" height="720"}
 
 | 集数 | 官方日文标题 | 中文译名 | 分集剧情 |
 |:---:|:---|:---|:---|
